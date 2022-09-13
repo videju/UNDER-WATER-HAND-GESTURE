@@ -1,0 +1,20 @@
+.button_heading{
+  
+    text-align: center;
+    align-items: center;
+    background: #0099CC;
+    color: #fff;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-left: 24%;
+ }
+ 
+#meters{
+    font-size: 100px;
+    width: 10%;
+}
+#reload{
+    opacity: 100%;
+}
